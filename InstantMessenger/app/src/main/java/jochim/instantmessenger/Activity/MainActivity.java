@@ -1,9 +1,11 @@
-package jochim.instantmessenger;
+package jochim.instantmessenger.Activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import jochim.instantmessenger.R;
 
 
 public class MainActivity extends ActionBarActivity {
